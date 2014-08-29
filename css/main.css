@@ -1,5 +1,9 @@
 body {
-	background-color: red
+    background-image: url('file:///C:/Users/Student/Pictures/School/app%20academy/fantasy_post_apocalyptic_apocalyptic_1366x768_23832.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 .about-me{
 	text-align: center;
